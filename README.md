@@ -6,6 +6,10 @@
 
 **AI-powered on-chain security exploit detection and audit system for Solana blockchain.**
 
+---
+
+**Donation:** `5rcfn1B3WcHVdjfMmrnD2ZmGhLR9fevd5WH1YZtgGrwJ`
+
 </div>
 
 ## Overview
